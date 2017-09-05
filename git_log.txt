@@ -1,0 +1,23 @@
+commit f91c5fccce483c1938c5d22c971d45c46cc4abf9
+Author: Oliver1961 <jpoliver47@gmail.com>
+Date:   Tue Sep 5 15:35:25 2017 -0700
+
+    yes, I really wanted to add secrets.txt to the repository
+
+commit f5d5805374d1107b5e28e2e88a9631bd74719937
+Author: Oliver1961 <jpoliver47@gmail.com>
+Date:   Tue Sep 5 15:13:16 2017 -0700
+
+    added gitignore
+
+commit 89606b6ff7d58d1d3c3b610bc33f3d6aec4f5a02
+Author: Oliver1961 <jpoliver47@gmail.com>
+Date:   Mon Sep 4 10:46:21 2017 -0700
+
+    added two files
+
+commit 990d693ba1abce3dc8db0b4d019f4db9f0870889
+Author: Oliver1961 <jpoliver47@gmail.com>
+Date:   Mon Sep 4 10:33:16 2017 -0700
+
+    added readme.txt
