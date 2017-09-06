@@ -2,5 +2,5 @@ Welcome to my first repository!
 Learning git is going well so far.
 I added this line in the update_readme branch
 it's cloudy outside today
-I enjoy flounders on a cloudy day
+I enjoy codfish on a cloudy day
 
